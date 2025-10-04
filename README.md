@@ -69,10 +69,10 @@ Saya adalah pengembang yang teliti dan sistematis, dengan semangat tinggi dalam 
 
 ## 📫 Hubungi Saya
 
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 📧 Email: your.email@example.com  
-- 🧠 Discord: `nusantara#1337` *(jika ada)*  
-- 🌐 Website: [yourdomain.com](https://yourdomain.com)
+- 💼 LinkedIn: [linkedin.com/in/-](https://linkedin.com/in/-)  
+- 📧 Email: arlianto032@gmai.com  
+- 🧠 Discord: `zakyjawahitam` *(jika ada)*  
+- 🌐 Website: [portofolioisaki.my.id](https://portofolioisaki.my.id)
 
 ---
 
