@@ -70,7 +70,7 @@ Saya adalah pengembang yang teliti dan sistematis, dengan semangat tinggi dalam 
 ## 📫 Hubungi Saya
 
 - 💼 LinkedIn: [linkedin.com/in/-](https://linkedin.com/in/-)  
-- 📧 Email: arlianto032@gmai.com  
+- 📧 Email: arlianto032@gmail.com  
 - 🧠 Discord: `zakyjawahitam` *(jika ada)*  
 - 🌐 Website: [portofolioisaki.my.id](https://portofolioisaki.my.id)
 
