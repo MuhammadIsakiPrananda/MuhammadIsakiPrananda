@@ -70,10 +70,12 @@ Saya adalah pengembang yang teliti dan sistematis, dengan semangat tinggi dalam 
 
 ## 📫 Hubungi Saya
 
-- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/muhammad-isaki-prananda-454668240/)
-- 📧 Email: arlianto032@gmail.com  
-- 🧠 Discord: `zakyjawahitam` *(jika ada)*  
-- 🌐 Website: [portofolioisaki.my.id](https://portofolioisaki.my.id)
+| 🪪 Profil Kontak | 🌐 Detail |
+|------------------|-----------|
+| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-isaki-prananda-454668240/) |
+| 📧 **Email** | [![Email](https://img.shields.io/badge/arlianto032@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arlianto032@gmail.com) |
+| 🧠 **Discord** | ![Discord](https://img.shields.io/badge/zakyjawahitam-5865F2?logo=discord&logoColor=white&style=for-the-badge) |
+| 🌐 **Website** | [![Website](https://img.shields.io/badge/portofolioisaki.my.id-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://portofolioisaki.my.id) |
 
 ---
 
