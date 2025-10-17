@@ -40,19 +40,31 @@ Saya adalah pengembang yang teliti dan sistematis, dengan semangat tinggi dalam 
 
 ## 📋 Apa yang Saya Kerjakan
 
-- 🔎 Riset dan eksperimen keamanan web & jaringan  
-- 🧩 Pemecahan tantangan CTF dan penulisan write-up  
-- 🐍 Pengembangan skrip Python untuk otomasi dan efisiensi  
-- 📁 Manajemen file dan folder untuk workflow riset  
-- 📚 Dokumentasi teknis dan berbagi pengetahuan
+Saya fokus pada keamanan web & jaringan, otomatisasi, serta berbagi pengetahuan melalui dokumentasi dan presentasi. Pekerjaan saya mencakup riset praktis, pengembangan tooling, dan kontribusi ke komunitas.
+
+**Aktivitas inti**
+- 🔎 Riset dan eksperimen keamanan web & jaringan (pentesting, vulnerability research, threat modelling)  
+- 🧩 Pemecahan tantangan CTF dan penulisan write-up teknis yang dapat direplikasi  
+- 🐍 Pengembangan skrip Python untuk otomasi (scanning, parsing, report generation)  
+- ⚙️ Otomatisasi workflow dengan GitHub Actions, cron jobs, dan Task Scheduler  
+- 📁 Manajemen file, environment, dan dataset untuk workflow riset yang dapat direproduksi  
+- 📚 Dokumentasi teknis, tutorial, dan sharing knowledge (blog, write-up, repo contoh)
 
 ---
 
 ## 📅 Kegiatan & Kontribusi
 
-- 🎤 Presentasi seminar dan workshop komunitas  
-- 🤝 Kolaborasi proyek open source di bidang keamanan dan otomasi  
-- 📝 Penulisan artikel dan blog tentang teknik hacking dan tools terbaru
+**Kegiatan rutin**
+- 🎤 Presentasi di seminar, meetup, dan workshop komunitas keamanan  
+- 🧑‍💻 Kontribusi ke proyek open source terkait keamanan, tooling, dan dokumentasi  
+- 📝 Penulisan artikel teknis, blog post, dan write-up CTF langkah-demi-langkah  
+- 🤝 Mentoring dan kolaborasi dengan tim/komunitas untuk penelitian bersama
+
+**Proyek & contoh kontribusi**
+- 🔧 Membangun skrip/CLI untuk mengotomasi pengumpulan dan analisis bukti (logs, pcap, output scanner)  
+- 🌐 Menyusun checklist audit keamanan aplikasi web (OWASP checklist terapan)  
+- 🗂️ Menulis write-up CTF yang mencakup exploit development, reversing, dan forensik  
+- 🧰 Menyumbang patch/issue atau dokumentasi pada repo tooling (mis. integrasi scanner, template GH Actions)
 
 ---
 
