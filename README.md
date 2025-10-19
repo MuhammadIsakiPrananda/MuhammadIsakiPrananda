@@ -87,7 +87,9 @@ Saya fokus pada keamanan web & jaringan, otomatisasi, serta berbagi pengetahuan 
 | 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-isaki-prananda-454668240/) |
 | 📧 **Email** | [![Email](https://img.shields.io/badge/arlianto032@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arlianto032@gmail.com) |
 | 🧠 **Discord** | ![Discord](https://img.shields.io/badge/zakyjawahitam-5865F2?logo=discord&logoColor=white&style=for-the-badge) |
-| 🌐 **Website** | [![Website](https://img.shields.io/badge/portofolioisaki.my.id-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://portofolioisaki.my.id) |
+| 🌐 **Website** | [![Portofolio Isaki](https://img.shields.io/badge/portofolioisaki.my.id-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://portofolioisaki.my.id) <br> [![Neverland Studio](https://img.shields.io/badge/neverlandstudio.my.id-000000?logo=firefox-browser&logoColor=white&style=for-the-badge)](https://neverlandstudio.my.id) |
+
+
 
 ---
 
