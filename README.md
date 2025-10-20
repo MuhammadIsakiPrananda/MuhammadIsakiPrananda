@@ -75,7 +75,7 @@ Saya fokus pada keamanan web & jaringan, otomatisasi, serta berbagi pengetahuan 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIsakiPrananda&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIsakiPranand&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIsakiPrananda&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
